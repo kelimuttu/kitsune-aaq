@@ -67,7 +67,7 @@ CSV.open(FILENAME, 'w', write_headers: true, headers: headers) do |csv|
     id = q["id"]
     locale = q["locale"]
     logger.debug "QUESTION id:" + id.to_s
-    url = "https://support.mozilla.org/" + locale + "/" + id.to_s
+    url = "https://support.mozilla.org/" + locale + "/questions/" + id.to_s
     csv << [url, q["created"].to_i.to_s, locale, q["title"], q["content"], q["product"]]
   end
 end
