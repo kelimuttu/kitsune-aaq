@@ -52,7 +52,7 @@ CSV.open(FILENAME, 'w', write_headers: true, headers: headers) do |csv|
   {
     :$gte => MIN_DATE,
     :$lte => MAX_DATE},
-    'product' => 'firefox',
+    'product' => 'mobile',
     'locale' => 'en-US' }
   ).sort(
   {"id"=> 1}

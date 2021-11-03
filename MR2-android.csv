@@ -1,0 +1,42 @@
+url,created,content,tags,locale,product
+https://support.mozilla.org/en-US/questions/1356253,2021-11-02 02:06:00 UTC,"<p>Support
+</p>","[{""name""=>""mobile"", ""slug""=>""mobile""}, {""name""=>""android"", ""slug""=>""android""}, {""name""=>""privacy-and-security"", ""slug""=>""privacy-and-security_1""}, {""name""=>""Firefox 93.0"", ""slug""=>""firefox-930""}]",en-US,mobile
+https://support.mozilla.org/en-US/questions/1356255,2021-11-02 02:28:30 UTC,"<p>I agree
+</p>","[{""name""=>""mobile"", ""slug""=>""mobile""}, {""name""=>""other"", ""slug""=>""other""}, {""name""=>""android"", ""slug""=>""android""}, {""name""=>""Firefox 92.0"", ""slug""=>""firefox-920""}]",en-US,mobile
+https://support.mozilla.org/en-US/questions/1356256,2021-11-02 02:29:14 UTC,"<p>Yes I agree
+</p>","[{""name""=>""mobile"", ""slug""=>""mobile""}, {""name""=>""other"", ""slug""=>""other""}, {""name""=>""android"", ""slug""=>""android""}, {""name""=>""Firefox 92.0"", ""slug""=>""firefox-920""}]",en-US,mobile
+https://support.mozilla.org/en-US/questions/1356263,2021-11-02 03:24:55 UTC,"<p>Under what circumstance is signing in to my Mozilla account on a previously signed in device that got signed out because of updating the browser considered a security threat even though I'm using the right login password and two step authentication code sent to my mail correctly. It sucks if simple authentication keeps getting aborted upon providing all security credentials.
+</p>","[{""name""=>""sync"", ""slug""=>""sync""}, {""name""=>""mobile"", ""slug""=>""mobile""}, {""name""=>""android"", ""slug""=>""android""}, {""name""=>""Firefox 87.0"", ""slug""=>""firefox-870""}]",en-US,mobile
+https://support.mozilla.org/en-US/questions/1356284,2021-11-02 07:03:25 UTC,"<p>Hi everybody. i am using FmWhatsapp to communicate with people. I don't know if Firefox supports installing this app. how can i install this app?
+</p>","[{""name""=>""mobile"", ""slug""=>""mobile""}, {""name""=>""download-and-install"", ""slug""=>""download-and-install_1""}]",en-US,mobile
+https://support.mozilla.org/en-US/questions/1356289,2021-11-02 07:28:20 UTC,"<p>There is no supported add on for
+</p><p>93.2.0 (Build #2015839747)
+AC: 93.0.12, e39f5dba3f
+GV: 93.0-20210927210923
+AS: 82.1.0
+</p><p>That means I can't have home button???
+</p>","[{""name""=>""mobile"", ""slug""=>""mobile""}, {""name""=>""customize"", ""slug""=>""customize""}, {""name""=>""android"", ""slug""=>""android""}, {""name""=>""Firefox 93.0"", ""slug""=>""firefox-930""}]",en-US,mobile
+https://support.mozilla.org/en-US/questions/1356328,2021-11-02 11:43:24 UTC,"<p>Why the notification of downloads in android phone are not appear for stop and resume untill downloads complete?
+While setting of firefox notifications is on.
+</p>","[{""name""=>""mobile"", ""slug""=>""mobile""}, {""name""=>""other"", ""slug""=>""other""}, {""name""=>""android"", ""slug""=>""android""}, {""name""=>""Firefox 92.0"", ""slug""=>""firefox-920""}]",en-US,mobile
+https://support.mozilla.org/en-US/questions/1356351,2021-11-02 14:50:37 UTC,"<p>NOBODY is interested in firefox Android loading mobile websites when not on mobile data and when on a screen bigger then 10 inch.......can you finally do the wright thing....
+1)add a simple switch for always desktop mode for every website....i am not the first one and i am sure i am not the only one who is tired of ur excuuses not to add a switch......https://<a href=""http://support.mozilla.org/en-US/questions/1286164.......bydeway"" rel=""nofollow"">support.mozilla.org/en-US/questions/1286164.......bydeway</a> the instruction s you gave didint work.....not that it mathers cuz it should be build in.....imagine if you brought ur car to the workshop...and the technician comes to you handles you a wrenge and tells you how to manualy change compression in ur cilinders.............if you managed to not break ur engine i am pretty sure you going to rate the workshop as 5 stars for customer service...where did the time go where the customer decidit what features he wanted in a product.......
+2)second let firefox Android check resolution after first instal...so bye default place the switch to desktop mode after high resolution tablet/detection
+3)enable background playing while on other tab.....like brave supports
+</p><p>If the above issues dont get solvedi will uninstall firefox......
+</p>","[{""name""=>""mobile"", ""slug""=>""mobile""}, {""name""=>""customize"", ""slug""=>""customize""}, {""name""=>""android"", ""slug""=>""android""}, {""name""=>""Firefox 93.0"", ""slug""=>""firefox-930""}]",en-US,mobile
+https://support.mozilla.org/en-US/questions/1356357,2021-11-02 15:49:34 UTC,"<p>How can I get to the cookies setting from my android. I want to allow third party cookies to enable me complete a website registeration. Thank You.
+</p>","[{""name""=>""mobile"", ""slug""=>""mobile""}, {""name""=>""cookies"", ""slug""=>""cookies""}, {""name""=>""android"", ""slug""=>""android""}, {""name""=>""Firefox 93.0"", ""slug""=>""firefox-930""}]",en-US,mobile
+https://support.mozilla.org/en-US/questions/1356358,2021-11-02 15:54:12 UTC,"<p>When uploading to a website using Firefox on Android there is no option to use the camera. It now only provides access to the file directory.
+</p><p>This must be a recent change as we have been using this facility on firefox for years, all other browsers provide the option to use the camera or browse files.
+</p>","[{""name""=>""mobile"", ""slug""=>""mobile""}, {""name""=>""fix-problems"", ""slug""=>""fix-problems""}]",en-US,mobile
+https://support.mozilla.org/en-US/questions/1356381,2021-11-02 18:38:53 UTC,"<p>I have found a previous thread that indicates to disable SafeBrowsing (phishing/walware protection) that I should access the about:config panel. 
+</p><p>However, the latest version of FireFox for Android <strong>does not load</strong> the about:config panel and when tryping this it just remains on the current website.
+</p>","[{""name""=>""mobile"", ""slug""=>""mobile""}, {""name""=>""privacy-and-security"", ""slug""=>""privacy-and-security_1""}]",en-US,mobile
+https://support.mozilla.org/en-US/questions/1356385,2021-11-02 19:33:03 UTC,"<p>So I've been away for 5 years, so I couldn't remember my password,  so I resset my pass, but as soon as I clicked reset pass, I saw something that said 'reseting password resets the account' if thad's the case, I wouldn't have done it. My last sync on Firefox held alllll my passwords and websites. Is there Anyway to get that back? I guess it's my own stupidity for not fully reading.. But fuck.
+</p>","[{""name""=>""sync"", ""slug""=>""sync""}, {""name""=>""mobile"", ""slug""=>""mobile""}, {""name""=>""android"", ""slug""=>""android""}, {""name""=>""Firefox 94.0"", ""slug""=>""firefox-940""}]",en-US,mobile
+https://support.mozilla.org/en-US/questions/1356394,2021-11-02 23:09:42 UTC,"<p>Using Firefox for Android version 93 and some sites display a small blue dot at the top right of the 3 dot menu icon.  Some sites visited don't show that blue dot.
+</p><p>What is the blue dot indicating ???
+Seems to be an indicator, but is a mystery!!
+Greg.
+</p>","[{""name""=>""mobile"", ""slug""=>""mobile""}, {""name""=>""other"", ""slug""=>""other""}, {""name""=>""android"", ""slug""=>""android""}, {""name""=>""Firefox 93.0"", ""slug""=>""firefox-930""}]",en-US,mobile
