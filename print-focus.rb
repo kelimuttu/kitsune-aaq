@@ -52,7 +52,7 @@ CSV.open(FILENAME, 'w', write_headers: true, headers: headers) do |csv|
   {
     :$gte => MIN_DATE,
     :$lte => MAX_DATE},
-    'product' => 'firefox',
+    'product' => 'focus-firefox',
     'locale' => 'en-US' }
   ).sort(
   {"id"=> 1}
@@ -68,7 +68,7 @@ CSV.open(FILENAME, 'w', write_headers: true, headers: headers) do |csv|
     id = q["id"] 
     locale = q["locale"]
     content = q["content"]
-    product = "Firefox desktop"
+    product = "Firefox Focus"
     tags = q["tags"]
     logger.debug "QUESTION id:" + id.to_s
     url = "https://support.mozilla.org/" + locale + "/questions/" + id.to_s

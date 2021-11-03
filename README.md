@@ -13,6 +13,7 @@ List of questions from all locales from Kitsune AAQ for Firefox Desktop, Firefox
 ./get-desktop-questions.rb YYYY MM DD
 ./get-android-questions.rb YYYY MM DD
 ./get-ios-questions.rb YYYY MM DD
+./get-focus-questions.rb YYYY MM DD
 ```
 
 ## Print data to CSV
@@ -20,4 +21,5 @@ List of questions from all locales from Kitsune AAQ for Firefox Desktop, Firefox
 ./print-desktop.rb YYYY MM DD YYYY MM DD filename-desktop.csv
 ./print-android.rb YYYY MM DD YYYY MM DD filename-android.csv
 ./print-ios.rb YYYY MM DD YYYY MM DD filename-ios.csv
+./print-focus.rb YYYY MM DD YYYY MM DD filename-focus.csv
 ```

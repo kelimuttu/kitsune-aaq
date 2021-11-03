@@ -46,7 +46,7 @@ MAX_DATE = Time.utc(ARGV[3].to_i, ARGV[4].to_i, ARGV[5].to_i, 23, 59) # may want
 
 FILENAME = ARGV[6]
 
-headers = ['url','created', 'content', 'tags', 'locale', 'product']
+headers = ['created', 'product', 'content', 'tags', 'url', 'locale']
 CSV.open(FILENAME, 'w', write_headers: true, headers: headers) do |csv|
   questionsColl.find({:created =>
   {
@@ -59,18 +59,19 @@ CSV.open(FILENAME, 'w', write_headers: true, headers: headers) do |csv|
   ).projection(
   {
     "id" => 1,
-    "content" => 1,
-    "locale" => 1,
     "created" => 1,
-    "tags" => 1,
     "product" => 1,
+    "content" => 1,
+    "tags" => 1,
+    "locale" => 1,
   }).each do |q|
     id = q["id"] 
     locale = q["locale"]
     content = q["content"]
+    product = "Firefox for Android "
     tags = q["tags"]
     logger.debug "QUESTION id:" + id.to_s
     url = "https://support.mozilla.org/" + locale + "/questions/" + id.to_s
-    csv << [url, Time.at(q["created"]).utc, content, tags, locale, q["product"]]
+    csv << [Time.at(q["created"]).utc, product, content, tags, url, locale]
   end
 end
